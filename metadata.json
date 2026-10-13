@@ -1,0 +1,6 @@
+{
+  "name": "LifeLog — Personal Life Event Tracker",
+  "description": "Track personal life events over time, record activities quickly, and seamlessly sync with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
